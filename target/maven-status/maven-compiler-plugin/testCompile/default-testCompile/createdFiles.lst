@@ -1,0 +1,7 @@
+com\apibotmessage\controller\WebhookControllerTest.class
+com\apibotmessage\util\BrazilianPhoneFormatterTest$ToE164Tests.class
+com\apibotmessage\client\WhatsAppCloudClientTest.class
+com\apibotmessage\util\BrazilianPhoneFormatterTest$NinthDigitTests.class
+com\apibotmessage\util\BrazilianPhoneFormatterTest.class
+com\apibotmessage\util\BrazilianPhoneFormatterTest$UtilTests.class
+com\apibotmessage\ApiBotMessageApplicationTests.class
